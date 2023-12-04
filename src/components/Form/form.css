@@ -1,0 +1,27 @@
+.abaixo {
+    background-color: #fffa9d;
+}
+
+.ideal {
+    background-color: #9dffa4;
+}
+
+.acima {
+    background-color: #fffa9d;
+}
+
+.grauI {
+    background-color: rgb(255, 194, 90)
+}
+
+.grauII {
+    background-color: rgb(255, 142, 90);
+}
+
+.grauIII {
+    background-color: rgb(255, 78, 78);
+}
+
+.oculto {
+    display: none;
+}
